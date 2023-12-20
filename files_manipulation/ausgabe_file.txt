@@ -1,36 +1,861 @@
-|tiebreaker1=total |tiebreaker2=first |tiebreaker3=second 
-|bg1=up|bg2=up|bg3=up|bg4=up|bg5=up|bg6=up|bg7=up|bg8=up
-|bg9=down|bg10=down|bg11=down|bg12=down|bg13=down|bg14=down|bg15=down|bg16=down|bg17=down|bg18=down|bg19=down|bg20=down|bg21=down|bg22=down|bg23=down|bg24=down|bg25=down|bg26=down|bg27=down|bg28=down|bg29=down|bg30=down|bg31=down|bg32=down
-|p1=10|p2=8|p3=7|p4=6|p5=4|p6=3|p7=2|p8=1
-|p1player=99br0ken p1results=7,7,1,7,3,3
-|p2player=Asad Fuego p2results=8,3,7,6,4,2
-|p3player=Briks p3results=3,7,2,7,1,4
-|p4player=Deis1k p4results=7,5,3,4,2,5
-|p5player=DigaSparta69 p5results=4,8,6,5,1,2
-|p6player=En1gma p6results=4,5,3,6,4,5
-|p7player=EsPat p7results=8,1,8,2,7,1
-|p8player=GonGLC p8results=6,5,1,1,8,3
-|p9player=IZI Lyyyress p9results=1,6,7,6,3,1
-|p10player=KC Canbizz p10results=1,7,8,1,4,1
-|p11player=Kevin Parker p11results=3,1,4,5,5,6
-|p12player=LYO Kenobi p12results=1,8,6,8,2,6
-|p13player=Laellana p13results=2,2,7,3,3,5
-|p14player=Luque p14results=8,4,7,8,6,8
-|p15player=M8 L3S Coco p15results=6,7,4,1,2,7
-|p16player=MIH ZyK0o p16results=2,4,3,1,4,7
-|p17player=Nevada34 p17results=7,6,5,7,8,4
-|p18player=OPS Jimray3 p18results=3,3,8,3,5,8
-|p19player=PMK Spoti p19results=6,8,8,3,5,6
-|p20player=PMKstinkyabuser p20results=2,3,2,7,7,2
-|p21player=RNG Uzi fan p21results=8,2,3,4,1,4
-|p22player=Stylet p22results=6,1,4,3,6,2
-|p23player=Tft Ginggg p23results=5,4,1,2,6,8
-|p24player=UTO Qetzer p24results=5,3,2,4,1,1
-|p25player=Wet Jungler p25results=5,6,5,2,3,6
-|p26player=Z10 Traviscwat p26results=2,5,5,5,8,7
-|p27player=etre infame p27results=3,2,6,8,6,4
-|p28player=kubixon p28results=1,1,1,6,2,3
-|p29player=mih tarteman p29results=7,8,2,4,7,5
-|p30player=shapeshifters p30results=4,6,4,5,8,3
-|p31player=tft aug p31results=4,4,5,8,5,7
-|p32player=ttv SnubleTFT p32results=5,2,6,2,7,8
+{{Tabs dynamic
+|name1=Round 1 
+|name2=Round 2 
+|name3=Round 3 
+|name4=Round 4 
+|This=4
+|hide-showall=true}}
+{{Tabs dynamic/tab|1}} 
+==={{Stage|Round 1}}=== 
+{{box|start|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group A|rounds=1 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=Alex22 |p1results=3,
+|p2player=Brosiris |p2results=5,
+|p3player=CallOfMutti |p3results=4,
+|p4player=Engel |p4results=6,
+|p5player=Tschulie48 |p5results=7,
+|p6player=aHuy |p6results=2,
+|p7player=shooku |p7results=1,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group B|rounds=1 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=Cain |p1results=3,
+|p2player=GrexGoesFlex |p2results=1,
+|p3player=JetzIsSchluss |p3results=2,
+|p4player=PicaPinguin |p4results=5,
+|p5player=Skys |p5results=7,
+|p6player=Strohli |p6results=6,
+|p7player=akazaka |p7results=4,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group C|rounds=1 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=Doréto |p1results=1,
+|p2player=John Schmieri |p2results=3,
+|p3player=PinkFloop |p3results=5,
+|p4player=SenecaRhetor |p4results=4,
+|p5player=Zeruel |p5results=2,
+|p6player=xXTheAleXx01 |p6results=6,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group D|rounds=1 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=Dacano |p1results=1,
+|p2player=Glatzkopf |p2results=6,
+|p3player=King1088 |p3results=5,
+|p4player=LPGjustJohnny |p4results=3,
+|p5player=MxMaxi |p5results=2,
+|p6player=TFTJandro |p6results=4,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group E|rounds=1 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=BGProne |p1results=6,
+|p2player=MPLfreaki |p2results=2,
+|p3player=Marvex |p3results=5,
+|p4player=Onlinewithbobo |p4results=1,
+|p5player=TOBBERS |p5results=4,
+|p6player=Ulukanmco |p6results=3,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group G|rounds=1 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=Leloo |p1results=3,
+|p2player=Mr Slugma |p2results=2,
+|p3player=Trychiya |p3results=6,
+|p4player=Vossi Senpai |p4results=5,
+|p5player=ancalimon |p5results=4,
+|p6player=raffipon |p6results=1,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group H|rounds=1 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=JonDrag |p1results=3,
+|p2player=KeksKomet |p2results=5,
+|p3player=N8schweif |p3results=6,
+|p4player=Rogunis |p4results=1,
+|p5player=Skityrax |p5results=2,
+|p6player=Zenki JR |p6results=4,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group J|rounds=1 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=Autarch |p1results=2,
+|p2player=Blue DeaD |p2results=3,
+|p3player=KnowMe |p3results=5,
+|p4player=Stardust |p4results=6,
+|p5player=Wägga |p5results=4,
+|p6player=Zorona Matjes |p6results=1,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group K|rounds=1 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=Aexoq |p1results=3,
+|p2player=Beoorc |p2results=1,
+|p3player=Itzi |p3results=6,
+|p4player=NekoGirlLaura |p4results=7,
+|p5player=TripleOlaf |p5results=4,
+|p6player=Vahrulv |p6results=5,
+|p7player=Wackentrooper |p7results=2,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group L|rounds=1 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=Avellyna |p1results=4,
+|p2player=Chordometer |p2results=3,
+|p3player=EliaTFT |p3results=2,
+|p4player=Kopri |p4results=1,
+|p5player=RailorAUT |p5results=6,
+|p6player=Umgomungo |p6results=5,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group M|rounds=1 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=Adrilion |p1results=6,
+|p2player=CN Tower |p2results=3,
+|p3player=Glindo |p3results=4,
+|p4player=ReThreshing |p4results=5,
+|p5player=TheBigN98 |p5results=2,
+|p6player=phinphinthao |p6results=1,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group N|rounds=1 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=Ericc |p1results=6,
+|p2player=Fr1day |p2results=3,
+|p3player=N8W8 |p3results=5,
+|p4player=PokerFreakDC92 |p4results=2,
+|p5player=Thoukka |p5results=1,
+|p6player=bisschen Urlaub |p6results=4,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group P|rounds=1 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=Fridoetending |p1results=4,
+|p2player=Mnolak |p2results=6,
+|p3player=MrGatzby |p3results=3,
+|p4player=PainGetsReal |p4results=5,
+|p5player=leinadsaibot29 |p5results=1,
+|p6player=minimamba__ |p6results=2,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group Q|rounds=1 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=Guns N Crits |p1results=1,
+|p2player=PaulusTFT |p2results=2,
+|p3player=Syriuz |p3results=6,
+|p4player=Thanos |p4results=5,
+|p5player=jojojo |p5results=4,
+|p6player=zZEscape |p6results=3,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group R|rounds=1 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=Abibot |p1results=2,
+|p2player=Haneul |p2results=5,
+|p3player=M00ritz |p3results=1,
+|p4player=TylerTheCreator |p4results=6,
+|p5player=sunnylaplante |p5results=4,
+|p6player=wandherker |p6results=3,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group S|rounds=1 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=Donni8 |p1results=2,
+|p2player=Lemoslp |p2results=4,
+|p3player=Schnuu |p3results=6,
+|p4player=alwaysblamejgler |p4results=3,
+|p5player=ysN01 |p5results=1,
+|p6player=εnvy Þ |p6results=5,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group T|rounds=1 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=INotEvenKlaus |p1results=2,
+|p2player=PeatItano |p2results=5,
+|p3player=Serphax |p3results=1,
+|p4player=Todbringli |p4results=7,
+|p5player=ToxicWolf99 |p5results=4,
+|p6player=Twitch MemooTFT |p6results=3,
+|p7player=Yahjko |p7results=6,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group U|rounds=1 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=Bufferingo |p1results=1,
+|p2player=Everland |p2results=2,
+|p3player=Glurak2000 |p3results=6,
+|p4player=Iphora |p4results=7,
+|p5player=Kemal1337 |p5results=4,
+|p6player=Nightwar |p6results=3,
+|p7player=Privatjetconnaisseur*in |p7results=5,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group V|rounds=1 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=AnhQuacko |p1results=2,
+|p2player=Cyuaa |p2results=1,
+|p3player=Hamhamgang |p3results=3,
+|p4player=PapaRage |p4results=5,
+|p5player=Thelegendaj1 |p5results=6,
+|p6player=ff60 |p6results=4,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group X|rounds=1 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=Anion |p1results=3,
+|p2player=Kuro |p2results=4,
+|p3player=Lorus |p3results=1,
+|p4player=Rohrreiniger |p4results=2,
+|p5player=SchwarzerMagier95 |p5results=5,
+|p6player=mato |p6results=6,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group Y|rounds=1 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=Chuck |p1results=5,
+|p2player=LeckDieZiege |p2results=3,
+|p3player=Orichienal |p3results=6,
+|p4player=Saffichiro |p4results=2,
+|p5player=Yuyuriko |p5results=4,
+|p6player=gluteus maximus |p6results=1,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group Z|rounds=1 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=Blawosch |p1results=3,
+|p2player=Germorad |p2results=2,
+|p3player=LeagueMitLuca |p3results=5,
+|p4player=Masterpede |p4results=1,
+|p5player=Palaton |p5results=6,
+|p6player=ZyList |p6results=4,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group AA|rounds=1 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=Dansky |p1results=3,
+|p2player=Löffelbiskuit |p2results=2,
+|p3player=So Professionell |p3results=5,
+|p4player=efenomeno91 |p4results=1,
+|p5player=skonda23 |p5results=4,
+|p6player=towed |p6results=6,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group AB|rounds=1 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=MATCHmeIFyouCAN |p1results=2,
+|p2player=Mello |p2results=4,
+|p3player=MvN |p3results=1,
+|p4player=Roggu |p4results=3,
+|p5player=Schmallock |p5results=5,
+|p6player=Sözzl |p6results=6,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group AC|rounds=1 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=GLORBO FLORBO |p1results=7,
+|p2player=MinasMask |p2results=6,
+|p3player=Narkez |p3results=3,
+|p4player=R3ktByBaguette |p4results=5,
+|p5player=RZN Juan |p5results=2,
+|p6player=hiafa |p6results=4,
+|p7player=laventus |p7results=1,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group AD|rounds=1 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=Balu |p1results=4,
+|p2player=FCZ |p2results=6,
+|p3player=Hondulululili |p3results=3,
+|p4player=Kubutan |p4results=1,
+|p5player=musa7mdv |p5results=5,
+|p6player=xBaschix |p6results=2,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group AE|rounds=1 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=ActOfRage |p1results=5,
+|p2player=IamPhilipp |p2results=4,
+|p3player=Jaeben |p3results=1,
+|p4player=Muja |p4results=3,
+|p5player=TFTobby |p5results=2,
+|p6player=ezzyo |p6results=6,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group AG|rounds=1 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=Gencreezo |p1results=3,
+|p2player=Gigantex |p2results=5,
+|p3player=Kagami |p3results=1,
+|p4player=LeosBucht |p4results=6,
+|p5player=Shantao |p5results=2,
+|p6player=bulus |p6results=4,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group AH|rounds=1 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=DAC Uskr |p1results=5,
+|p2player=Dunyele |p2results=2,
+|p3player=Guddy |p3results=4,
+|p4player=OLVRsTFT |p4results=1,
+|p5player=SCnhorwis |p5results=3,
+|p6player=pandaritiz |p6results=6,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group AJ|rounds=1 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=Bananabill |p1results=1,
+|p2player=Berndo |p2results=4,
+|p3player=Daddy G |p3results=3,
+|p4player=Duckyy |p4results=5,
+|p5player=Mavee |p5results=2,
+|p6player=Michaelas01 |p6results=6,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group AK|rounds=1 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=L4n |p1results=2,
+|p2player=LordPhilippderII |p2results=6,
+|p3player=Peroh |p3results=1,
+|p4player=Pinguinflieger |p4results=5,
+|p5player=Vik |p5results=3,
+|p6player=alifron |p6results=4,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group AL|rounds=1 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=1EkanS |p1results=1,
+|p2player=AkaliToMaster |p2results=5,
+|p3player=I am Haschi |p3results=2,
+|p4player=LilyBlack2 |p4results=6,
+|p5player=TFTobyy |p5results=3,
+|p6player=mrpepe |p6results=4,
+}} 
+{{box|end}} 
+{{Tabs dynamic/tab|2}} 
+==={{Stage|Round 2}}=== 
+{{box|start|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group AM|rounds=1 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=1EkanS |p1results=1,
+|p2player=JetzIsSchluss |p2results=8,
+|p3player=John Schmieri |p3results=6,
+|p4player=JonDrag |p4results=3,
+|p5player=Mr Slugma |p5results=7,
+|p6player=TFTJandro |p6results=5,
+|p7player=Wägga |p7results=4,
+|p8player=shooku |p8results=2,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group AN|rounds=1 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=Blue DeaD |p1results=8,
+|p2player=CallOfMutti |p2results=7,
+|p3player=GrexGoesFlex |p3results=5,
+|p4player=LPGjustJohnny |p4results=1,
+|p5player=Peroh |p5results=6,
+|p6player=Skityrax |p6results=3,
+|p7player=TOBBERS |p7results=2,
+|p8player=Zeruel |p8results=4,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group AP|rounds=1 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=Alex22 |p1results=3,
+|p2player=Autarch |p2results=5,
+|p3player=Bananabill |p3results=1,
+|p4player=Doréto |p4results=4,
+|p5player=MxMaxi |p5results=2,
+|p6player=Ulukanmco |p6results=8,
+|p7player=akazaka |p7results=7,
+|p8player=ancalimon |p8results=6,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group AQ|rounds=1 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=Cain |p1results=3,
+|p2player=Dacano |p2results=8,
+|p3player=Leloo |p3results=2,
+|p4player=MPLfreaki |p4results=1,
+|p5player=OLVRsTFT |p5results=5,
+|p6player=SenecaRhetor |p6results=7,
+|p7player=Zenki JR |p7results=6,
+|p8player=aHuy |p8results=4,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group AR|rounds=1 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=Beoorc |p1results=3,
+|p2player=CN Tower |p2results=6,
+|p3player=EliaTFT |p3results=1,
+|p4player=Lemoslp |p4results=8,
+|p5player=MvN |p5results=5,
+|p6player=PaulusTFT |p6results=4,
+|p7player=bisschen Urlaub |p7results=7,
+|p8player=wandherker |p8results=2,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group AS|rounds=1 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=Abibot |p1results=6,
+|p2player=Fr1day |p2results=8,
+|p3player=Fridoetending |p3results=4,
+|p4player=Kopri |p4results=3,
+|p5player=TheBigN98 |p5results=5,
+|p6player=TripleOlaf |p6results=2,
+|p7player=alwaysblamejgler |p7results=7,
+|p8player=efenomeno91 |p8results=1,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group AT|rounds=1 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=Aexoq |p1results=1,
+|p2player=Avellyna |p2results=6,
+|p3player=Donni8 |p3results=4,
+|p4player=Masterpede |p4results=2,
+|p5player=MrGatzby |p5results=7,
+|p6player=PokerFreakDC92 |p6results=3,
+|p7player=jojojo |p7results=8,
+|p8player=phinphinthao |p8results=5,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group AU|rounds=1 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=Chordometer |p1results=4,
+|p2player=Glindo |p2results=2,
+|p3player=Thoukka |p3results=6,
+|p4player=Wackentrooper |p4results=7,
+|p5player=gluteus maximus |p5results=1,
+|p6player=minimamba__ |p6results=8,
+|p7player=sunnylaplante |p7results=3,
+|p8player=zZEscape |p8results=5,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group AV|rounds=1 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=Dansky |p1results=7,
+|p2player=Everland |p2results=5,
+|p3player=Germorad |p3results=3,
+|p4player=Hamhamgang |p4results=8,
+|p5player=Kuro |p5results=6,
+|p6player=Mello |p6results=2,
+|p7player=Serphax |p7results=1,
+|p8player=ysN01 |p8results=4,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group AX|rounds=1 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=AnhQuacko |p1results=8,
+|p2player=Anion |p2results=2,
+|p3player=Bufferingo |p3results=1,
+|p4player=Löffelbiskuit |p4results=3,
+|p5player=M00ritz |p5results=7,
+|p6player=Roggu |p6results=5,
+|p7player=ToxicWolf99 |p7results=4,
+|p8player=Yuyuriko |p8results=6,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group AY|rounds=1 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=Cyuaa |p1results=3,
+|p2player=Guns N Crits |p2results=2,
+|p3player=Kemal1337 |p3results=7,
+|p4player=LeckDieZiege |p4results=5,
+|p5player=MATCHmeIFyouCAN |p5results=6,
+|p6player=Rohrreiniger |p6results=8,
+|p7player=Twitch MemooTFT |p7results=1,
+|p8player=ZyList |p8results=4,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group AZ|rounds=1 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=Blawosch |p1results=8,
+|p2player=INotEvenKlaus |p2results=1,
+|p3player=Lorus |p3results=4,
+|p4player=Nightwar |p4results=6,
+|p5player=Saffichiro |p5results=5,
+|p6player=ff60 |p6results=2,
+|p7player=leinadsaibot29 |p7results=3,
+|p8player=skonda23 |p8results=7,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group BA|rounds=1 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=Mavee |p1results=4,
+|p2player=Muja |p2results=5,
+|p3player=Vik |p3results=8,
+|p4player=Zorona Matjes |p4results=1,
+|p5player=bulus |p5results=7,
+|p6player=laventus |p6results=3,
+|p7player=mrpepe |p7results=2,
+|p8player=xBaschix |p8results=6,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group BB|rounds=1 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=Gencreezo |p1results=2,
+|p2player=Guddy |p2results=7,
+|p3player=Kubutan |p3results=4,
+|p4player=L4n |p4results=5,
+|p5player=Rogunis |p5results=1,
+|p6player=TFTobby |p6results=3,
+|p7player=TFTobyy |p7results=8,
+|p8player=hiafa |p8results=6,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group BC|rounds=1 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=Balu |p1results=1,
+|p2player=Berndo |p2results=7,
+|p3player=I am Haschi |p3results=5,
+|p4player=Jaeben |p4results=3,
+|p5player=Narkez |p5results=2,
+|p6player=SCnhorwis |p6results=6,
+|p7player=Shantao |p7results=4,
+|p8player=raffipon |p8results=8,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group BD|rounds=1 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=Daddy G |p1results=7,
+|p2player=Dunyele |p2results=4,
+|p3player=Hondulululili |p3results=5,
+|p4player=IamPhilipp |p4results=8,
+|p5player=Kagami |p5results=6,
+|p6player=Onlinewithbobo |p6results=3,
+|p7player=RZN Juan |p7results=1,
+|p8player=alifron |p8results=2,
+}} 
+{{box|end}} 
+{{Tabs dynamic/tab|3}} 
+==={{Stage|Round 3}}=== 
+{{box|start|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group BE|rounds=2 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=Kopri |p1results=8,5,
+|p2player=MxMaxi |p2results=3,2,
+|p3player=RZN Juan |p3results=7,4,
+|p4player=Rogunis |p4results=2,6,
+|p5player=Zeruel |p5results=5,8,
+|p6player=aHuy |p6results=1,3,
+|p7player=shooku |p7results=6,1,
+|p8player=sunnylaplante |p8results=4,7,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group BG|rounds=2 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=Balu |p1results=3,4,
+|p2player=Beoorc |p2results=6,7,
+|p3player=Doréto |p3results=5,3,
+|p4player=Leloo |p4results=7,8,
+|p5player=PokerFreakDC92 |p5results=2,5,
+|p6player=TOBBERS |p6results=4,6,
+|p7player=Wägga |p7results=1,2,
+|p8player=Zorona Matjes |p8results=8,1,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group BH|rounds=2 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=Alex22 |p1results=6,6,
+|p2player=Bufferingo |p2results=3,1,
+|p3player=Chordometer |p3results=2,7,
+|p4player=Fridoetending |p4results=8,8,
+|p5player=INotEvenKlaus |p5results=7,3,
+|p6player=JonDrag |p6results=1,5,
+|p7player=Masterpede |p7results=4,4,
+|p8player=wandherker |p8results=5,2,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group BJ|rounds=2 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=Cain |p1results=6,3,
+|p2player=Donni8 |p2results=7,7,
+|p3player=Glindo |p3results=4,1,
+|p4player=PaulusTFT |p4results=3,6,
+|p5player=Serphax |p5results=8,8,
+|p6player=Skityrax |p6results=2,2,
+|p7player=TripleOlaf |p7results=5,5,
+|p8player=Twitch MemooTFT |p8results=1,4,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group BK|rounds=2 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=Guns N Crits |p1results=4,1,
+|p2player=Lorus |p2results=3,2,
+|p3player=Mello |p3results=5,5,
+|p4player=Onlinewithbobo |p4results=7,6,
+|p5player=TFTobby |p5results=8,3,
+|p6player=ToxicWolf99 |p6results=2,4,
+|p7player=efenomeno91 |p7results=6,8,
+|p8player=gluteus maximus |p8results=1,7,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group BL|rounds=2 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=Aexoq |p1results=6,4,
+|p2player=Anion |p2results=7,5,
+|p3player=EliaTFT |p3results=2,3,
+|p4player=Jaeben |p4results=3,1,
+|p5player=ZyList |p5results=4,7,
+|p6player=ff60 |p6results=8,8,
+|p7player=laventus |p7results=5,2,
+|p8player=ysN01 |p8results=1,6,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group BM|rounds=2 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=Cyuaa |p1results=2,4,
+|p2player=Dunyele |p2results=7,2,
+|p3player=Germorad |p3results=8,7,
+|p4player=Kubutan |p4results=3,3,
+|p5player=LPGjustJohnny |p5results=5,5,
+|p6player=MPLfreaki |p6results=4,6,
+|p7player=Narkez |p7results=6,1,
+|p8player=mrpepe |p8results=1,8,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group BN|rounds=2 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=1EkanS |p1results=5,7,
+|p2player=Bananabill |p2results=6,8,
+|p3player=Gencreezo |p3results=8,4,
+|p4player=Löffelbiskuit |p4results=1,6,
+|p5player=Mavee |p5results=3,1,
+|p6player=Shantao |p6results=2,2,
+|p7player=alifron |p7results=7,3,
+|p8player=leinadsaibot29 |p8results=4,5,
+}} 
+{{box|end}} 
+{{Tabs dynamic/tab|4}} 
+==={{Stage|Round 4}}=== 
+{{box|start|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group BP|rounds=2 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=Glindo |p1results=3,7,
+|p2player=Kubutan |p2results=8,3,
+|p3player=Shantao |p3results=6,6,
+|p4player=Wägga |p4results=4,2,
+|p5player=aHuy |p5results=1,8,
+|p6player=gluteus maximus |p6results=5,4,
+|p7player=laventus |p7results=7,5,
+|p8player=wandherker |p8results=2,1,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group BQ|rounds=2 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=Bufferingo |p1results=6,5,
+|p2player=EliaTFT |p2results=3,2,
+|p3player=Lorus |p3results=8,6,
+|p4player=PokerFreakDC92 |p4results=4,8,
+|p5player=Skityrax |p5results=2,3,
+|p6player=leinadsaibot29 |p6results=7,7,
+|p7player=mrpepe |p7results=5,4,
+|p8player=shooku |p8results=1,1,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group BR|rounds=2 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=Balu |p1results=6,4,
+|p2player=Cain |p2results=3,3,
+|p3player=Guns N Crits |p3results=7,6,
+|p4player=Jaeben |p4results=8,1,
+|p5player=Löffelbiskuit |p5results=4,2,
+|p6player=Masterpede |p6results=2,7,
+|p7player=MxMaxi |p7results=5,8,
+|p8player=Narkez |p8results=1,5,
+}} 
+{{box|break|padding=2em|padding-bottom=2em|box-width=320px}} 
+{{match standings|title=Group BS|rounds=2 
+|p1=8|p2=7|p3=6|p4=5|p5=4|p6=3|p7=2|p8=1
+|bg1=up|bg2=up|bg3=up|bg4=up
+|bg5=down|bg6=down|bg7=down|bg8=down
+|tiebreaker1=total |tiebreaker2=first |tiebreaker3=top_four |tiebreaker4=second |tiebreaker5=third |tiebreaker6=fourth |tiebreaker7=fifth |tiebreaker8=sixth |tiebreaker9=seventh 
+|p1player=Cyuaa |p1results=6,1,
+|p2player=Doréto |p2results=7,3,
+|p3player=JonDrag |p3results=4,7,
+|p4player=Mavee |p4results=1,5,
+|p5player=Rogunis |p5results=3,6,
+|p6player=ToxicWolf99 |p6results=5,8,
+|p7player=Twitch MemooTFT |p7results=2,2,
+|p8player=ysN01 |p8results=8,4,
+}} 
+{{box|end}} 
